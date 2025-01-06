@@ -1,0 +1,22 @@
+{
+	"name": "cardealer-vinquery-import",
+	"title": "Car Dealer - VIN Vehicle Import",
+	"version": "2.0.0",
+	"description": "This addon provide option to import vehicle using VIN.",
+	"author": "Potenza Global Solutions",
+	"homepage": "http://www.potenzaglobalsolutions.com/",
+	"main": "cardealer-vinquery-import.php",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"grunt": "^1.6.1",
+		"grunt-checktextdomain": "^1.0.1",
+		"grunt-contrib-copy": "^1.0.0",
+		"grunt-contrib-cssmin": "^5.0.0",
+		"grunt-contrib-uglify": "^5.2.2",
+		"grunt-contrib-watch": "^1.1.0",
+		"grunt-wp-i18n": "^1.0.3"
+	}
+}

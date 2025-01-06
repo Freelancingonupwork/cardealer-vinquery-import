@@ -1,0 +1,346 @@
+# Copyright (C) {2023} Potenza Global Solutions
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Dealer - VIN Vehicle Import 2.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/cardealer-vinquery-import\n"
+"POT-Creation-Date: 2023-07-03 14:23:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-07-03 14:23:00+0000\n"
+"Last-Translator: Potenza Global Solutions "
+"http://www.potenzaglobalsolutions.com/\n"
+"Language-Team: Potenza Global Solutions "
+"http://www.potenzaglobalsolutions.com/\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPathExcluded-0: includes/acf\n"
+"X-Poedit-SearchPathExcluded-1: includes/redux-framework\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin-ajax.php:16 classes/class-cardealer-vinquery-import.php:49
+msgid "Something went wrong!"
+msgstr ""
+
+#: admin-ajax.php:22
+msgid "Nonce not valid, clear your cache and try again."
+msgstr ""
+
+#: admin-ajax.php:34
+msgid "Mapping saved successfully."
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:33
+#: classes/class-cardealer-vinquery-import.php:34 init.php:37
+msgid "VIN Vehicle Import"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:83
+msgid "VIN Import"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:100
+#. translators: 1: Vehicle VIN Import page link.
+msgid "Return to <a href=\"%1$s\">VIN Import</a> page."
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:133
+msgid ""
+"To import vehicles, drag and drop fields from the right column into the "
+"left column attributes and meta boxes. You can save current field mapping "
+"for future use. You can use saved field mapping to import vehicles again."
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:136
+#: classes/class-cardealer-vinquery-import.php:363
+msgid "Save current mapping"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:137
+#: classes/class-cardealer-vinquery-import.php:364
+msgid "Import Vehicles"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:147
+msgid "Vehicle Title"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:148
+msgid "Attributes"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:149
+msgid "Vehicle Images"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:150
+#: classes/class-cardealer-vinquery-import.php:204
+msgid "Regular price"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:151
+#: classes/class-cardealer-vinquery-import.php:208
+msgid "Tax Label"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:152
+#: classes/class-cardealer-vinquery-import.php:212
+msgid "Fuel Efficiency"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:153
+#: classes/class-cardealer-vinquery-import.php:216
+msgid "PDF Brochure"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:154
+msgid "Video"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:155
+msgid "Vehicle Status"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:156
+#: classes/class-cardealer-vinquery-import.php:228
+msgid "Vehicle Overview"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:157
+msgid "Features & Options"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:158
+#: classes/class-cardealer-vinquery-import.php:236
+msgid "Technical Specifications"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:159
+#: classes/class-cardealer-vinquery-import.php:240
+msgid "General Information"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:160
+#: classes/class-cardealer-vinquery-import.php:244
+msgid "Vehicle Location"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:161
+#: classes/class-cardealer-vinquery-import.php:248
+msgid "Excerpt(Short content)"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:165
+msgid "Vehicle Titles"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:200
+msgid "Vehicles Images"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:220
+msgid "Video Link"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:224
+msgid "Vehicle Status( sold/unsold )"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:232
+msgid "Features Options"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:267
+msgid "Import type:"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:269
+msgid "Value"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:270
+msgid "Key: Value"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:287
+msgid "Regular Price"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:297
+msgid "Sale Price"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:314
+msgid "City MPG"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:323
+msgid "Highway MPG"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:342
+msgid ""
+"Important Note: If multiple items are added in this field, the system will "
+"generate content as a list (each item in each list item)."
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:371
+msgid "API Result"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:405
+msgid "vehicle file"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:407
+msgid "VIN #"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:409
+msgid "/17"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:412
+msgid "Get vehicle details"
+msgstr ""
+
+#: classes/class-cardealer-vinquery-import.php:420
+msgid ""
+"The API key is not set. Click <a href=\"%s\" target=\"_blank\">here</a> to "
+"set the API key."
+msgstr ""
+
+#: classes/class-cdvqi.php:358
+msgid "Congratulations, you successfully imported this vehicle details: "
+msgstr ""
+
+#: classes/class-cdvqi.php:359
+msgid "Untitled"
+msgstr ""
+
+#: classes/class-cdvqi.php:361
+msgid "Error importing your vehicle"
+msgstr ""
+
+#: classes/class-cdvqi.php:456
+msgid ""
+"Error in the request, please check API keys or limit is reached for your "
+"VIN account."
+msgstr ""
+
+#: init.php:48
+msgid "Important Note for VINquery"
+msgstr ""
+
+#: init.php:53
+#. translators: %s: string
+msgid ""
+"We have received reports that <a href=\"%s\" "
+"target=\"_blank\">VINquery.com</a> is not adequately responsive to customer "
+"queries or messages and not taking new customers. So, the "
+"\"<strong>VINquery</strong>\" service is no longer part of the standard "
+"package. The current \"VINQuery\" integration is for the <strong>OLD "
+"USERS</strong> whose account works fine and can use the service."
+msgstr ""
+
+#: init.php:59
+msgid ""
+"Therefore, for NEW USERS, we strongly recommend contacting them directly to "
+"inquire about and verify their service stability before subscribing to "
+"VINquery services."
+msgstr ""
+
+#: init.php:61
+msgid ""
+"We no longer provide any fix or update to the VINquery integration. And we "
+"will not be liable if VINquery.com does not address customer queries."
+msgstr ""
+
+#: init.php:69
+msgid "VIN Provider"
+msgstr ""
+
+#: init.php:70
+msgid "Select VIN provider."
+msgstr ""
+
+#: init.php:72
+msgid "NHTSA (National Highway Traffic Safety Administration)"
+msgstr ""
+
+#: init.php:73
+msgid "Vincario"
+msgstr ""
+
+#: init.php:74
+msgid "VINquery"
+msgstr ""
+
+#: init.php:84
+msgid "Vincario Credentials"
+msgstr ""
+
+#: init.php:88
+#. translators: %s links
+msgid ""
+"You can get Vincario API credentials from <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: init.php:102
+msgid "Vincario - API Key"
+msgstr ""
+
+#: init.php:111
+msgid "Vincario - Secret Key"
+msgstr ""
+
+#: init.php:123
+msgid "VINquery Credentials"
+msgstr ""
+
+#: init.php:127
+#. translators: %s links
+msgid ""
+"You can get VINquery API credentials from <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: init.php:141
+msgid "VINquery - API Key"
+msgstr ""
+
+#: init.php:150
+msgid "VINquery - Data Type"
+msgstr ""
+
+#: init.php:154
+#. translators: %s: url
+msgid ""
+"Please add the value for Data Type. Possible values are (0, 1, 2, 3). For "
+"more details about Data Type please <a href=\"%1$s\" "
+"target=\"_blank\">check here</a>"
+msgstr ""
+
+#: init.php:172
+msgid "VINquery - Partial VIN"
+msgstr ""
+
+#: init.php:174
+msgid "True"
+msgstr ""
+
+#: init.php:175
+msgid "False"
+msgstr ""
